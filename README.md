@@ -41,7 +41,7 @@ This file is a text file with the lyrics to the song "Somebody That I Used To Kn
 ---
 
 ## How To Run
-If you want to compile this implementation, you must download the "LLRBBST.cpp", "LLRBBST.h", and "main.cpp" files. You must also provide a text file of your choosing, or simply download "somebody.txt", the text file for Somebody That I Used To Know. Once all downloaded files are compiled on your chosen IDE, make sure to update the txt file to what you have provided, inside readFile() in "main.cpp", or else it will not work. At this point, run it, and it should give you a DOT file. To view the LLRBBST you have just created, copy and paste the DOT file onto a visualization website, such as [edotor.net](https://edotor.net/), a Graphviz editor, and gaze in awe at your beautiful tree.
+If you want to compile this implementation, you must download the "LLRBBST.cpp", "LLRBBST.h", and "main.cpp" files. You must also provide a text file of your choosing, or simply download "somebody.txt", a sample text file for the song Somebody That I Used To Know by Gotye. Once all downloaded files are compiled on your chosen IDE, make sure to update the txt file to what you have provided, inside readFile() in "main.cpp", or else it will not work. At this point, run it, and it should give you a DOT file. To view the LLRBBST you have just created, copy and paste the DOT file onto a visualization website, such as [edotor.net](https://edotor.net/), a Graphviz editor, and gaze in awe at your beautiful tree.
 
 ---
 
