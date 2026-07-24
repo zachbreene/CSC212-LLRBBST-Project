@@ -1,5 +1,6 @@
 <h1 align=center> LLRBBST: Left Leaning Red-Black Binary Search Tree </h1>
 <h2 align=center> A CSC212: Data Structures Project by Zach Breene </h2>
+<h2 align=center> Created at The University of Rhode Island, January 2022 </h2>
 
 ## Introduction
 My task for this project was to create an implementation of the Left Leaning Red-Black Binary Search Tree, or LLRBBST. The LLRBBST is a more efficient alternative to the 2-3 and Red Black Binary Search Trees. The LLRBBST is more efficient due to certain rules set in place. In this tree, all red links are to be left leaning, which means pointing towards the left child, and there cannot be a node that has two red links connected. The LLRBBST also has perfect black balance, where each path from the root to the leaves crosses the same number of black links. With everything correctly applied and implemented, the LLRBBST runs insertion, search, and deletion methods in log(n) time.
